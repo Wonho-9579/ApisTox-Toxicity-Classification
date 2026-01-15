@@ -73,11 +73,19 @@ ApisTox-Toxicity-Classification/
 
 
 ## How to Run
+
 1. Clone this repository.
 2. Create a `data/` directory in the project root.
 3. Place the dataset file inside the directory and name it:
-data/dataset_final.csv
+
+   `data/dataset_final.csv`
+
 4. Open and run `notebooks/apistox.ipynb`.
+
+> **Note:**  
+> The dataset is not included in this repository due to licensing considerations.  
+> If running on Google Colab, upload the dataset to `/content/data/dataset_final.csv` before execution.
+
 
 ## Tools & Libraries
 - Python
