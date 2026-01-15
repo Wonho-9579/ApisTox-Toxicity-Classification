@@ -59,7 +59,7 @@ minimize false negatives in ecological risk assessment.
 ---
 
 ## Repository Structure
-```text
+
 ApisTox-Toxicity-Classification/
 ├── notebooks/
 │   └── apistox.ipynb
@@ -68,11 +68,9 @@ ApisTox-Toxicity-Classification/
 │   ├── confusion_matrix.png
 │   ├── pr_curve.png
 │   └── feature_importance.png
-├── docs/
-│   ├── report.pdf
-│   └── presentation.pdf
 ├── requirements.txt
 └── README.md
+
 
 ## How to Run
 1. Clone this repository.
